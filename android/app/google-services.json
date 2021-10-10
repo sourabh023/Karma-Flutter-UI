@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742499810779",
+    "project_id": "karmalogin-88662",
+    "storage_bucket": "karmalogin-88662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742499810779:android:8fcc60d00bc9c904c0fbfe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742499810779-96733ck7sk82a1knppqc83h3n9dir13g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxkt2i0KGBIhsgUBZ4m_C9iEnrzSZTPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742499810779-96733ck7sk82a1knppqc83h3n9dir13g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
